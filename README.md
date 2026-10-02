@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ahmad Raihan Rizki
 
-<!--
-**araihanwork/araihanwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and verify the knowledge bases behind production conversational AI.
 
-Here are some ideas to get you started:
+Over the past year: 1,500+ knowledge base entries across 12 client deployments in 7 industries and 8 markets, plus the test suites that verify them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work centres on one question: **can this answer be traced back to a source?**
+
+**In practice.** Control-based test methodology that separates genuine model failure from grading error. Mechanical validators that refuse to ship a file when a rule is violated. Retrieval diagnosis, where keywords determine eligibility and content determines ranking. Objective measurement in place of subjective argument.
+
+Trained in archaeology, which is source criticism as a discipline: date every source, rank its authority, and never let inference pass as evidence.
+
+**Portfolio:** https://adaptive-game-72b.notion.site/Ahmad-Raihan-Rizki-AI-Data-Architect-Knowledge-Management-Specialist-e5c0d3893413443fb8c4706912f92e22
+
+**Contact:** araihan.rizkiwork@gmail.com
